@@ -1,0 +1,1 @@
+execute if score timer-prop lapCooldownTicks matches 0 run function timer:start
